@@ -1,0 +1,36 @@
+# Виртуальные окружения
+venv/
+.venv/
+env/
+
+# Кэш Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Конфигурации
+.env
+*.env
+
+# Логи
+*.log
+
+# Базы данных (если будут)
+*.sqlite3
+*.db
+
+# Временные файлы
+tmp/
+temp/
